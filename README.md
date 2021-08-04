@@ -15,7 +15,7 @@ NPM
 
 ### Contributing
 
-Contributions, [issues](https://github.com/Johongirr/tdd-with-jest.git) and feature requests are welcome!
+Contributions, [issues](https://github.com/Johongirr/tdd-with-jest/issues) and feature requests are welcome!
 
 ### Show your support
 
